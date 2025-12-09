@@ -73,6 +73,15 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 
 ---
 
+### 🎁 [Toy Reviews Sentiment Analysis](https://github.com/traceyho59/aws-toy-reviews-sentiment)
+**Cloud-native ML system** analyzing 50,000 Amazon toy reviews to identify products with hidden quality issues. Built sentiment classifier (91% accuracy) using TF-IDF + Logistic Regression, deployed on AWS (S3, Lambda, EC2, RDS). Flask dashboard reveals products where high star ratings mask negative sentiment.
+
+**Key insight:** Products with large rating-sentiment gaps signal quality concerns invisible to traditional metrics
+
+**Tech Stack:** AWS S3 Lambda EC2 RDS Python Flask Scikit-learn TF-IDF PostgreSQL NLP
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Data Engineering
@@ -82,10 +91,10 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 `Python` `R` `Scikit-learn` `XGBoost` `Random Forest` `Predictive Modeling` `Feature Engineering` `Statistical Analysis`
 
 ### Visualization & BI
-`Streamlit` `Tableau` `PowerBI` `Plotly` `ggplot2` `Matplotlib` `Interactive Dashboards`
+`Streamlit` `Tableau` `Metabase` `PowerBI` `Plotly` `ggplot2` `Matplotlib` `Interactive Dashboards` `Bootstrap UI`
 
 ### Cloud & Dev Tools
-`AWS` `Azure` `Git` `VS Code` `Agile Development` `Flask` `Jupyter` `RStudio`
+`AWS` `Azure` `Git` `VS Code` `Agile Development` `Flask` `Jupyter` `RStudio` `Lambda` `EC2` `DynamoDB`
 
 ### Domain Expertise
 `Financial Risk Modeling` `Fraud Detection` `Transportation Analytics` `Marketing Analytics` `Operations Optimization`
