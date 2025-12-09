@@ -32,6 +32,24 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 
 ---
 
+### 💄 [Luxury Cosmetics Pop-Up Events Database](https://github.com/traceyho59/luxury-cosmetics-db)
+**End-to-end database system** analyzing 2,133 luxury cosmetics pop-up events across global markets. Built normalized 3NF PostgreSQL schema, Python ETL pipeline, and Metabase dashboards tracking revenue efficiency and brand performance for Chanel, Dior, YSL, and 21 other luxury brands.
+
+**Key insights:** Asia leads with 74% sell-through rate, Special Launch events outperform by 5%, Tokyo generates highest revenue efficiency
+
+**Tech Stack:** `PostgreSQL` `Python` `Pandas` `SQLAlchemy` `Metabase` `ETL` `Database Design 3NF Normalization`
+
+---
+
+### 🎁 [Toy Reviews Sentiment Analysis](https://github.com/traceyho59/aws-toy-reviews-sentiment)
+**Cloud-native ML system** analyzing 50,000 Amazon toy reviews to identify products with hidden quality issues. Built sentiment classifier (91% accuracy) using TF-IDF + Logistic Regression, deployed on AWS (S3, Lambda, EC2, RDS). Flask dashboard reveals products where high star ratings mask negative sentiment.
+
+**Key insight:** Products with large rating-sentiment gaps signal quality concerns invisible to traditional metrics
+
+**Tech Stack:** `AWS` `S3` `Lambda` `EC2` `RDS` `Python` `Flask` `Scikit-learn` `TF-IDF` `PostgreSQL` `NLP`
+
+---
+
 ### 🚕 [NYC Taxi Revenue Optimization](https://github.com/traceyho59/nyc-taxi-revenue-optimization)
 **Production-scale data engineering** pipeline processing 22M NYC taxi trips (2.13GB) with Spark + PostgreSQL. Built Streamlit dashboard delivering real-time revenue recommendations for drivers competing with Uber.
 
@@ -61,24 +79,6 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 **Statistical research** quantifying the impact of 15-minute workplace naps on productivity and energy levels. Demonstrates experimental design, power analysis, and hypothesis testing.
 
 **Tech Stack**: `R` `Statistical Analysis` `Hypothesis Testing` `Power Analysis` `Research Design`
-
----
-
-### 💄 [Luxury Cosmetics Pop-Up Events Database](https://github.com/traceyho59/luxury-cosmetics-db)
-**End-to-end database system** analyzing 2,133 luxury cosmetics pop-up events across global markets. Built normalized 3NF PostgreSQL schema, Python ETL pipeline, and Metabase dashboards tracking revenue efficiency and brand performance for Chanel, Dior, YSL, and 21 other luxury brands.
-
-**Key insights:** Asia leads with 74% sell-through rate, Special Launch events outperform by 5%, Tokyo generates highest revenue efficiency
-
-**Tech Stack:** `PostgreSQL` `Python` `Pandas` `SQLAlchemy` `Metabase` `ETL` `Database Design 3NF Normalization`
-
----
-
-### 🎁 [Toy Reviews Sentiment Analysis](https://github.com/traceyho59/aws-toy-reviews-sentiment)
-**Cloud-native ML system** analyzing 50,000 Amazon toy reviews to identify products with hidden quality issues. Built sentiment classifier (91% accuracy) using TF-IDF + Logistic Regression, deployed on AWS (S3, Lambda, EC2, RDS). Flask dashboard reveals products where high star ratings mask negative sentiment.
-
-**Key insight:** Products with large rating-sentiment gaps signal quality concerns invisible to traditional metrics
-
-**Tech Stack:** AWS S3 Lambda EC2 RDS Python Flask Scikit-learn TF-IDF PostgreSQL NLP
 
 ---
 
