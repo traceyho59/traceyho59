@@ -15,7 +15,7 @@ Currently: Data Analyst Intern @ **Yondr** | Previously: Management Consulting @
 I bridge **data engineering** and **data science** - building scalable pipelines that process millions of records, then extracting insights through ML and analytics. My sweet spot is turning messy data into actionable business intelligence.
 
 **Recent highlights:**
-- 🏗️ **Yondr**: Centralizing fragmented data systems with Python/SQL ETL workflows, building unified dashboards for COO
+- 🏗️ **Yondr**: Centralizing fragmented data systems with Python/SQL ETL workflows, building unified dashboards for COO and CFO
 - 🔐 **Protiviti**: Built Python-based cryptocurrency risk detection system (pending patent), analyzed $30M-$1B securitizations
 - 📦 **Amazon**: Led 100+ employees to 60K+ packages/day, saved $25M through robotics optimization
 
