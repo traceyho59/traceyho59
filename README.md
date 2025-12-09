@@ -183,10 +183,4 @@ I'm drawn to roles where I can:
 
 ---
 
-### 📊 GitHub Stats
-
-![Tracey's GitHub stats](https://github-readme-stats.vercel.app/api?username=traceyho59&show_icons=true&theme=radical)
-
----
-
 💡 **"I don't just analyze data - I build systems that turn data into competitive advantage."**
