@@ -64,6 +64,13 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 
 ---
 
+### 💄 [Luxury Cosmetics Pop-Up Events Database[(https://github.com/traceyho59/luxury-cosmetics-db)
+**End-to-end database system** analyzing 2,133 luxury cosmetics pop-up events across global markets. Built normalized 3NF PostgreSQL schema, Python ETL pipeline, and Metabase dashboards tracking revenue efficiency and brand performance for Chanel, Dior, YSL, and 21 other luxury brands.
+**Key insights:** Asia leads with 74% sell-through rate, Special Launch events outperform by 5%, Tokyo generates highest revenue efficiency
+**Tech Stack:** `PostgreSQL` `Python` `Pandas` `SQLAlchemy` `Metabase` `ETL` `Database Design 3NF Normalization`
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Data Engineering
