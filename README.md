@@ -32,6 +32,18 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 
 ---
 
+### 🏓 [JOOLA Customer Analytics & Churn Prediction](https://github.com/traceyho59/joola-customer-analytics)
+
+**End-to-end customer analytics platform** for JOOLA (premium pickleball brand) analyzing 1.9M transactions to predict churn and optimize retention. Built XGBoost model (AUC 0.85) identifying key churn drivers, discovered 66% one-time buyer problem, and found 110K monthly searches in untapped keyword opportunity.
+
+**Key insights:** 3 premium SKUs drive 50%+ profit (concentration risk), high-spend customers show 2.1x retention vs discount users, court-related keywords have low competition at $0.86-$3.69 CPC
+
+**Tech Stack:** `Python` `XGBoost` `Logistic Regression` `Pandas` `Streamlit` `Tableau` `RFM Analysis` `Customer Segmentation`
+
+[![Dashboard Demo](https://img.youtube.com/vi/QlOoYwnm3-w/hqdefault.jpg)](https://www.youtube.com/watch?v=QlOoYwnm3-w)
+
+---
+
 ### 💄 [Luxury Cosmetics Pop-Up Events Database](https://github.com/traceyho59/luxury-cosmetics-db)
 **End-to-end database system** analyzing 2,133 luxury cosmetics pop-up events across global markets. Built normalized 3NF PostgreSQL schema, Python ETL pipeline, and Metabase dashboards tracking revenue efficiency and brand performance for Chanel, Dior, YSL, and 21 other luxury brands.
 
