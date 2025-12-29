@@ -60,6 +60,8 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 
 **Tech Stack:** `AWS` `S3` `Lambda` `EC2` `RDS` `Python` `Flask` `Scikit-learn` `TF-IDF` `PostgreSQL` `NLP`
 
+[![Watch Demo](https://img.youtube.com/vi/aKcdbwgMGl0/hqdefault.jpg)](https://youtu.be/aKcdbwgMGl0)
+
 ---
 
 ### 🚕 [NYC Taxi Revenue Optimization](https://github.com/traceyho59/nyc-taxi-revenue-optimization)
