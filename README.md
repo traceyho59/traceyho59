@@ -1,6 +1,6 @@
 # Hi, I'm Tracey Ho 👋
 
-**MS Applied Analytics @ Columbia University** (GPA 4.0) | Data Engineer | Machine Learning Engineer
+**MS Applied Analytics @ Columbia University** (GPA 3.92) | Data Engineer | Machine Learning Engineer
 
 Currently: Data Analyst Intern @ **Yondr** | Previously: Management Consulting @ **Protiviti**, Operations @ **Amazon**
 
