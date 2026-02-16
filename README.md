@@ -2,7 +2,7 @@
 
 **MS Applied Analytics @ Columbia University** (GPA 3.92) | Data Engineer | Machine Learning Engineer
 
-Currently: Data Analyst Intern @ **Yondr** | Previously: Management Consulting @ **Protiviti**, Operations @ **Amazon**
+Currently: Data Analyst @ **Yondr** | Previously: Management Consulting @ **Protiviti**, Operations @ **Amazon**
 
 🚀 Building data pipelines, ML models, and analytics platforms that solve real-world business problems
 
@@ -182,7 +182,7 @@ I'm drawn to roles where I can:
 ✅ Apply **ML/AI** to solve real business problems (fraud, revenue optimization, demand forecasting)
 ✅ Work at the **intersection of engineering and analytics** - not siloed into one
 
-**Graduating December 2025** | Available for full-time roles starting **January 2026**
+**Graduated December 2025** | Available for full-time roles
 
 ---
 
