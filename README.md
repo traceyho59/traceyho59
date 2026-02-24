@@ -170,22 +170,6 @@ I bridge **data engineering** and **data science** - building scalable pipelines
 
 ---
 
-## 🎯 Currently Seeking
-
-**Data Engineer** or **Machine Learning Engineer** roles at:
-- **Fintech** (fraud detection, risk modeling, algorithmic trading)
-- **Transportation/Logistics** (Uber, DoorDash, Amazon Logistics - I have taxi project!)
-- **Tech** (Google, Meta, Microsoft - building data infrastructure at scale)
-
-I'm drawn to roles where I can:
-✅ Build **production data pipelines** handling millions/billions of records
-✅ Apply **ML/AI** to solve real business problems (fraud, revenue optimization, demand forecasting)
-✅ Work at the **intersection of engineering and analytics** - not siloed into one
-
-**Graduated December 2025** | Available for full-time roles
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/traceyho59)
@@ -194,7 +178,6 @@ I'm drawn to roles where I can:
 
 📧 **Email**: tracey.ho@columbia.edu  
 📍 **Location**: New York, NY  
-💼 **Open to**: Full-time Data Engineer / ML Engineer roles (Jan 2026)
 
 ---
 
